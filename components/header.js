@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 
@@ -6,17 +7,17 @@ import React from 'react';
           <div className=''>
         <header className=' underline flex justify-evenly  m-auto md-header_ellipsis text-slate-300 px-20 pt-1 pb-1' href="/index"> 
         <button>
-            <a className=' underline' href='/'>ヌル</a>
+            <Link className=' underline' href='/'>ヌル</Link>
         </button>
         <button>
-            <a className=' underline' href='/about'>About</a>
+            <Link className=' underline' href='/about'>About</Link>
         </button>
         
         <button>
-        <a className=' underline' href='/guide'>Guide</a>
+        <Link className=' underline' href='/guide'>Guide</Link>
         </button>
         <button>
-          <a className=' underline' href='/resources'>Resources</a>
+          <Link className=' underline' href='/resources'>Resources</Link>
         </button>
         </header>
         </div>
