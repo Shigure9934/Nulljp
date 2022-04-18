@@ -41,7 +41,7 @@ export default function Home() {
 {/* Button */}
 <>
 <Link href='./guide'>
-<button className='  shadow-sm max-h-6 max-w-sm pr-3 px-3'>&#9961; Japanese Guide </button>
+<button className='  shadow-sm max-h-6 max-w-sm pr-3 px-3 pb-8 '>&#9961; Japanese Guide </button>
 </Link>
 </>
  </div></>

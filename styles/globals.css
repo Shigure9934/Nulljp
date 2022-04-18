@@ -9,6 +9,8 @@
 
 html, body {
  @apply h-screen;
+ font-size: 1.3rem;
+
 }
 
 body{
@@ -26,7 +28,8 @@ header{
 }
 
 p,h1,h2{
-    @apply text-slate-300
+    @apply text-slate-300;
+    
 }
 
 button{
