@@ -18,10 +18,6 @@ body{
 header{
     background-color: #01949A;
     @apply shadow-md;
-    @apply sticky;
-    position: fixed;
-    width: 100%;
-    position: absolute
     
 }
 
