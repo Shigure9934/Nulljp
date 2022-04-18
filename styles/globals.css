@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+*{
+    font-family : 'Roboto', sans-serif;
+}
+
+html, body {
+ @apply h-screen;
+}
+
+body{
+    background-color: #1f3442;
+}
+
+header{
+    background-color: #01949A;
+    @apply shadow-md;
+    @apply sticky;
+    position: fixed;
+    width: 100%;
+    position: absolute
+    
+}
+
+#__next{
+    @apply h-screen flex flex-col;
+}
+
+p,h1,h2{
+    @apply text-slate-300
+}
+
+button{
+    background-color: #01949A;
+    border-radius: 5px;
+    @apply text-slate-300;
+   @apply hover:bg-cyan-700
+}
