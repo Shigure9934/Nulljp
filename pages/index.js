@@ -41,7 +41,7 @@ export default function Home() {
 </>
 {/* Button */}
 <>
-<Link href='./guide'>
+<Link href='./guide' passHref>
 <button className=' bg-cyan-800  rounded-md text-slate-300 hover:bg-cyan-700 flex shadow-sm scroll-m-10 p-3 '>&#9961; Japanese Guide </button>
 </Link>
 </>
