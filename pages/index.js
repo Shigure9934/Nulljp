@@ -23,7 +23,7 @@ export default function Home() {
     </div>
  {/* Main image */}.
  <div className='flex flex-col items-center justify-center w-full h-screen space-y-8 lg-flex-row pb-45 gap-0'>
-<Image src={nyn} width={'200%'} height={'200%'} />
+<Image src={nyn} width={'100%'} height={'100%'} />
 <>
 {/* Welcome msg */}
    <h1>
@@ -41,8 +41,9 @@ export default function Home() {
 {/* Button */}
 <>
 <Link href='./guide'>
-<button className='  shadow-sm max-h-6 max-w-sm pr-3 px-3 pb-8 '>&#9961; Japanese Guide </button>
+<button className='flex bg-cyan-500 text-slate-300 rounded-md hover:bg-cyan-700  shadow-sm max-h-6 max-w-sm pr-3 px-3 pb-8 '>&#9961; Japanese Guide </button>
 </Link>
+<br></br>
 </>
  </div></>
 
