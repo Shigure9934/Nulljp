@@ -6,15 +6,21 @@
 *{
     font-family : 'Roboto', sans-serif;
 }
+.
 
 html, body {
  @apply h-screen;
  font-size: 1.3rem;
+ padding: 0%;
+    margin: 0%;
+
 
 }
 
 body{
-    background-color: #1f3442;
+     background-color: #1f3442;
+     background: linear-gradient(to right, #1f3442, #1f3442);
+
 }
 
 header{
@@ -32,9 +38,3 @@ p,h1,h2{
     
 }
 
-button{
-    background-color: #01949A;
-    border-radius: 5px;
-    @apply text-slate-300;
-   @apply hover:bg-cyan-700
-}
