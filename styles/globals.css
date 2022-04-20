@@ -10,6 +10,8 @@
 html, body {
  @apply h-screen;
  font-size: 1.3rem;
+ 
+ 
 
 }
 
@@ -30,11 +32,4 @@ header{
 p,h1,h2{
     @apply text-slate-300;
     
-}
-
-button{
-    background-color: #01949A;
-    border-radius: 5px;
-    @apply text-slate-300;
-   @apply hover:bg-cyan-700
 }
