@@ -24,7 +24,6 @@ export default function Home() {
  {/* Main image */}.
  
  <div className='  flex flex-col items-center justify-center w-full h-screen space-y-8 lg-flex-row pb-45 gap-0'>
-// eslint-disable-next-line jsx-a11y/alt-text
 <Image className = ''  src={nyn} width={'200%'} height={'200%'} />
 <>
 {/* Welcome msg */}
