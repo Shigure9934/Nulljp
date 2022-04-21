@@ -27,9 +27,8 @@ export default function Home() {
 <Image className = ''  src={nyn} width={'200%'} height={'200%'} />
 <>
 {/* Welcome msg */}
-   <h1>
+   <h1 className='pl-5 text-xl'>
    いらしゃいませ！ <br />
-      <p className=' px-9'> Welcome! </p>
    </h1>
    </>
 {/* Presentation */}
@@ -44,6 +43,9 @@ export default function Home() {
 <Link href='./guide' passHref>
 <button className=' bg-cyan-800  rounded-md text-slate-300 hover:bg-cyan-700 flex shadow-sm scroll-m-10 p-3 '>&#9961; Japanese Guide </button>
 </Link>
+<div className='pb-'>
+
+</div>
 </>
 
  </div></>
