@@ -21,7 +21,7 @@ function Guide(){
             <p className='text-sm px-8 pt-8'>
             The process of learning a language or anything long term  is something  <br />
             hard, and you should acknowledge that, I won&apos;t tell you that it is simple <br />
-            or painless, It takes a lot of self commitment and <p className=' inline-block underline hover:text-cyan-700'><a href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" passHref>Grit</a>. </p>
+            or painless, It takes a lot of self commitment and <p className=' inline-block underline hover:text-cyan-700'><a href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" rel="noreferrer" passHref>Grit</a>. </p>
        </p>
         <h2 className='flex text-3xl px-8 pt-12 underline'>
             The Process 
@@ -65,7 +65,7 @@ function Guide(){
                Katakana is more block-like and Hiragana has a more rounded shape.
             </p>
             <p className='text-sm px-8 pt-8 pb-8'>
-                You can learn the kana by drilling it through this <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://djtguide.neocities.org/kana/index.html' target="_blank" passHref>Quiz</a>. </div>
+                You can learn the kana by drilling it through this <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://djtguide.neocities.org/kana/index.html' target="_blank" rel="noreferrer" passHref>Quiz</a>. </div>
             </p>
         </div>
         
