@@ -5,7 +5,7 @@ import React from 'react';
     function Header() {
     return (
           <div className=' hover:underline'>
-        <header className=' flex justify-evenly  m-auto md-header_ellipsis text-slate-300 px-15 pt-5 pb-2.5' href="/index"> 
+        <header className='flex justify-evenly  m-auto md-header_ellipsis text-slate-300 px-15 pt-5 pb-2.5' href="/index"> 
         <button>
             <Link className=' ' href='/'>ヌル</Link>
         </button>
