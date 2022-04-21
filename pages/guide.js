@@ -49,7 +49,7 @@ function Guide(){
             </ruby>
             </h2>
             <p className='text-sm px-8 pt-8'>
-               Those "Symbols" make up big part of the japanese you&apos;l be 
+               These &quot;Symbols&quot; make up big part of the japanese you&apos;l be seeing during your journey 
             </p>
         </div>
     </div>    
