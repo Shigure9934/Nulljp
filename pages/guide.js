@@ -1,5 +1,6 @@
 import Header from '../components/header';
 import Image from 'next/image';
+import Link from 'next/link';
 
 function Guide(){ 
     return (
@@ -18,7 +19,10 @@ function Guide(){
                 The Mindset 
             </h2>
             <p className='text-sm px-8 pt-8'>
-        </p>
+            The process of learning a language or anything long term  is something  <br />
+            hard, and you should acknowledge that, I won&apos;t tell you that it is simple <br />
+            or painless, It takes a lot of self commitment and <Link href='https://en.wikipedia.org/wiki/Grit_(personality_trait' passHref><u><strong>Grit</strong></u></Link>.
+       </p>
         <h2 className='flex text-3xl px-8 pt-12 hover:underline'>
             The Process 
         </h2>
@@ -42,14 +46,29 @@ function Guide(){
                 systems, you can think of it like
                 It is the romanian alphabet equivalent of the Japanese alphabet. <br />
             </p>
-            <h2 className='flex text-2xl px-56 pt-12 '>
+            <h2 className='flex text-2xl px-28 pt-12 '>
             <ruby>
              <rb>  おはよう </rb>
                 <rt>  ohayou </rt>
             </ruby>
             </h2>
             <p className='text-sm px-8 pt-8'>
-               These &quot;Symbols&quot; make up big part of the japanese you&apos;l be seeing during your journey 
+               These &quot;Symbols&quot; make up big part of the japanese you&apos;l be seeing during your journey <br/>
+               Your focus on this section should be of remembering how they are <br/>
+               pronounced.
+               We have Hiragana and Katakana in japanese, both are Kana, and are used for different porpouses, Hiragana is what <br/>
+               makes up most of the japanese sentences (by being used as topic markers and more) along with Kanji, but we&apos;ll <br/>
+               talk about those soon...
+               Katakana is what the japanese use for spelling <br/>
+               loan words like <ruby>
+                   <rb>  コンピュータ. </rb>
+                   <rt className='text-sm'> Computer</rt>
+               </ruby>
+               You can dinstinguish them by noticing how
+               Katakana is more block-like and Hiragana has a more rounded shape.
+            </p>
+            <p className='text-sm px-8 pt-8'>
+                You can learn the kana by drilling it through this <Link href='https://kana-quiz.tofugu.com/' passHref><u><strong>Quiz</strong></u></Link>.
             </p>
         </div>
     </div>    

@@ -24,6 +24,7 @@ export default function Home() {
  {/* Main image */}.
  
  <div className='  flex flex-col items-center justify-center w-full h-screen space-y-8 lg-flex-row pb-45 gap-0'>
+// eslint-disable-next-line jsx-a11y/alt-text
 <Image className = ''  src={nyn} width={'200%'} height={'200%'} />
 <>
 {/* Welcome msg */}
@@ -36,7 +37,7 @@ export default function Home() {
 <>
 <p className=' px-14 pb-5 '>
   Start your Japanese Learning Journey right away! <br />
-  Read our community driven guide down below! &#11015;
+  Read our community driven guide down below &#11015;
 </p>
 </>
 {/* Button */}
