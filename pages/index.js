@@ -28,7 +28,7 @@ export default function Home() {
 <>
 {/* Welcome msg */}
    <h1 className='pl-5 text-xl'>
-   いらしゃいませ！ <br />
+   いらっしゃいませ～  <br />
    </h1>
    </>
 {/* Presentation */}

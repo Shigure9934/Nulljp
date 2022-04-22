@@ -64,9 +64,13 @@ function Guide(){
                You can dinstinguish them by noticing how
                Katakana is more block-like and Hiragana has a more rounded shape.
             </p>
-            <p className='text-sm px-8 pt-8 pb-8'>
+            <p className='text-sm px-8 pt-8 pb-4'>
                 You can learn the kana by drilling it through this <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://djtguide.neocities.org/kana/index.html' target="_blank" rel="noreferrer" passHref>Quiz</a>. </div>
             </p>
+            <p className='text-sm px-8'>
+                Memorizing most of the kana (Hiragana and Katakana) should be a simple process, make sure to not spend too much time 
+                on it at this point because you'll have plenty of time to see it during your journey.
+                </p>
         </div>
         
     </div>    
