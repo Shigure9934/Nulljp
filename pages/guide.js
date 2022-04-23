@@ -165,7 +165,7 @@ function Guide() {
         .
       </div>
       {/*  padding for the footer */}
-      <div class="ghost" className="pb-8"></div>
+      <div className="pb-8"></div>
     </div>
   );
 }
