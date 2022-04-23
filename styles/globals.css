@@ -2,40 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
-*{
-    font-family : 'Roboto', sans-serif;
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
 }
-.
-
-html, body {
- @apply h-screen;
- font-size: 1.3rem;
-    margin: 0%;
-    
-
-
+. html,
+body {
+  @apply h-screen;
+  font-size: 1.3rem;
+  margin: 0%;
+  background-color: #1f3442;
+  background: linear-gradient(to right, #1f3442, #1f3442);
 }
 
-body{
-     background-color: #1f3442;
-     background: linear-gradient(to right, #1f3442, #1f3442);
-    
-     
-
+body {
+  background-color: #1f3442;
+  background: linear-gradient(to right, #1f3442, #1f3442);
 }
 
-header{
-    background-color: #01949A;
-    @apply shadow-md;
-    
+header {
+  background-color: #01949a;
+  @apply shadow-md;
 }
 
-#__next{
-    @apply h-screen flex flex-col;
+#__next {
+  @apply h-screen flex flex-col;
 }
 
-p,h1,h2{
-    @apply text-slate-300;
-    
+p,
+h1,
+h2 {
+  @apply text-slate-300;
 }
