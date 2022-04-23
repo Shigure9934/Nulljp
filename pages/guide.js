@@ -15,7 +15,7 @@ function Guide(){
                 Well, first of all you need to have the right <strong> mindset  </strong> before you dive into seriously learning. <br />
                 After all It&apos;s something that takes a lot of time and effort, that&apos;s why this guide will start by guiding you into having the right mindset when it comes to learning Japanese. <br />                 
             </p>
-            <h2 className='flex text-3xl px-8 pt-12 underline'>
+            <h2 className='flex text-3xl px-8 pt-8'>
                 The Mindset 
             </h2>
             <p className='text-sm px-8 pt-8'>
@@ -23,7 +23,7 @@ function Guide(){
             hard, and you should acknowledge that, I won&apos;t tell you that it is simple <br />
             or painless, It takes a lot of self commitment and <p className=' inline-block underline hover:text-cyan-700'><a href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" rel="noreferrer" passHref>Grit</a>. </p>
        </p>
-        <h2 className='flex text-3xl px-8 pt-12 underline'>
+        <h2 className='flex text-3xl px-8 pt-8'>
             The Process 
         </h2>
         <p className='text-sm px-8 pt-8'>
@@ -33,12 +33,12 @@ function Guide(){
         <p className='text-sm px-8 pt-8'>
             Learning Japanese consists of three main acts: <br />
             <strong>
-                1. The Kana <br />
+                1. The Kana/Kanji <br />
                 2. Vocabulary <br />
                 3. 無限 <br />
             </strong>
             </p>
-            <h2 className='flex text-2xl px-8 pt-12 underline'>
+            <h2 className='flex text-2xl px-8 pt-8'>
              The Kana
             </h2>
             <p className='text-sm px-8 pt-8'>
@@ -46,7 +46,7 @@ function Guide(){
                 systems, you can think of it like
                 It is the roman alphabet equivalent of the Japanese alphabet. 
             </p>
-            <h2 className='flex text-2xl px-8 pt-12 '>
+            <h2 className='flex text-2xl px-8 pt-8 '>
             <ruby>
              <rb>  おはよう </rb>
                 <rt>  ohayou </rt>
@@ -76,23 +76,23 @@ function Guide(){
                 With the ability of reading kana you could already start learning vocabulary,  but that would be inneficient, that's why before introducing how the process of vocabulary acquistion
                 works we'll be diving into <u>Kanji</u>
 
-                <h2 className='flex text-2xl pt-12 underline'>
+                <h2 className='flex text-2xl pt-8'>
                     Kanji
                 </h2>
-                <p className='text-sm pt-2'>
+                <p className='text-sm pt-8'>
                     Kanji are Symbols in japanese that in conjuction with kana, make up the whole Japanese
                     writting system, they are pronounced using kana and can form compounds to represent 
                    words, concepts, or entire phrases when 2 or more kanji are combined together, the same words can
                    be written in kana or kanji, highly depends on what word is and the author decision for example. 
                 </p>
-                <h2 className='flex text-2xl px-8 pt-12 '>
+                <h2 className='flex text-2xl pt-8 '>
             <ruby>
                 <p>Ten-ki</p>
              <rb>  てんき </rb>
                 <rt> 天気 </rt>
             </ruby>
             </h2>
-            <p className='flex pt-2'>
+            <p className='flex pt-8'>
                 The word 天気 means Weather and is made of 天 and 気 which are respectively 
                 sky and sensation, kinda makes sense right? <br/>
                 That's how kanji works, but it's advised that you learn them as full words 
