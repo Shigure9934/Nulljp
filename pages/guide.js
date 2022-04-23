@@ -71,10 +71,45 @@ function Guide(){
                 Memorizing most of the kana (Hiragana and Katakana) should be a simple process, make sure to not spend too much time 
                 on it at this point because you'll have plenty of time to see it during your journey.
                 </p>
+            <p className='text-sm px-8'>
+                <br />
+                With the ability of reading kana you could already start learning vocabulary,  but that would be inneficient, that's why before introducing how the process of vocabulary acquistion
+                works we'll be diving innto <u>Kanji</u>
+
+                <h2 className='flex text-2xl pt-12 underline'>
+                    Kanji
+                </h2>
+                <p className='text-sm pt-2'>
+                    Kanji are Symbols in japanese that in conjuction with kana, make up the whole Japanese
+                    writting system, they are pronounced using kana and can form compounds to represent 
+                   words, concepts, or entire phrases when 2 or more kanji are combined together, the same words can
+                   be writting in kana or kanji, highly depends on what word is and the author decision for example. 
+                </p>
+                <h2 className='flex text-2xl px-8 pt-12 '>
+            <ruby>
+                <p>Ten-ki</p>
+             <rb>  てんき </rb>
+                <rt> 天気 </rt>
+            </ruby>
+            </h2>
+            <p className='flex pt-2'>
+                The word 天気 means Weather and is made of 天 and 気 which are respectively 
+                sky and sensation, kinda makes sense right? <br/>
+                That's how kanji works, but it's advised that you learn them as full words 
+                instead of learning each individual component and trying to make sense of them.
+                And how do I do that? you may be asking.
+            </p>
+            </p>
+            <p className='px-8 text-sm flex-inline pt-2'>
+            First of all you should get used to using dictionaries so you can look up words whenever you are browsing the internet
+            or reading/watching content. Recommended dictionaries tools are down below, more detailed explanation on
+           <p className='inline text-cyan-400'>
+            <Link className=' text-cyan-400 underline' href='./resources' passHref><u> Resources </u></Link>
+            </p>
+            </p>
+           <p className='px-8 inline-block underline hover:text-cyan-700'><a href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" rel="noreferrer" passHref>Jisho.org</a> </p>.
         </div>
-        
-    </div>    
-     
+    </div> 
     );
 }
 export default Guide;
