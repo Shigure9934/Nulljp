@@ -87,9 +87,8 @@ function Guide(){
                 </p>
                 <h2 className='flex text-2xl pt-8 '>
             <ruby>
-                <p>Ten-ki</p>
-             <rb>  てんき </rb>
-                <rt> 天気 </rt>
+             <rb>  天気 </rb>
+                <rt> てんき </rt>
             </ruby>
             </h2>
             <p className='flex pt-8'>

@@ -55,7 +55,10 @@ function Resources() {
           also with the middle mouse button if you enable it under settings.
         </p>
       </div>
+       {/*  padding for the footer */}   
+       <div className='pb-8'></div>
     </div>
+    
   );
 }
 
