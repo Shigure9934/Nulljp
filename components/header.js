@@ -5,19 +5,19 @@ import Image from 'next/image';
 
     function Header() {
     return (
-          <div className=' hover:underline'>
-        <header className='flex justify-evenly  m-auto md-header_ellipsis text-slate-300 px-15 pt-5 pb-2.5' href="/index"> 
-        <button>
+          <div>
+        <header className='flex justify-evenly  m-auto md-header_ellipsis text-slate-100 px-15 pt-5 pb-2.5' href="/index"> 
+        <button className=' shadow-sm hover:text-cyan-400'>
             <Link className=' ' href='/'>ヌル</Link>
         </button>
-        <button>
-            <Link className=' ' href='/about'>About</Link>
+        <button className='  shadow-sm hover:text-cyan-400'>
+            <Link className='' href='/about'>About</Link>
         </button>
         
-        <button>
+        <button className=' shadow-sm hover:text-cyan-400'>
         <Link className=' ' href='/guide'>Guide</Link>
         </button>
-        <button>
+        <button className=' shadow-sm hover:text-cyan-400'>
           <Link className=' ' href='/resources'>Resources</Link>
         </button>
         </header>
