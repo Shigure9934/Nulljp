@@ -116,9 +116,5 @@ function Guide(){
     </div> 
     );
 }
-<<<<<<< HEAD
 export default Guide; 
 
-=======
-export default Guide; 
->>>>>>> 1a0f83cb0cac0e5be65d4527e1e4c74b04275702
