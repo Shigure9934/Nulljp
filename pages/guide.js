@@ -13,15 +13,20 @@ function Guide(){
             <p className='text-sm px-8 pt-8'>
                 So, how do I learn Japanese? you may be asking yourself. <br />
                 Well, first of all you need to have the right <strong> mindset  </strong> before you dive into seriously learning. <br />
-                After all It&apos;s something that takes a lot of time and effort, that&apos;s why this guide will start by guiding you into having the right mindset when it comes to learning Japanese. <br />                 
+                After all It&apos;s something that takes a lot of time and effort, that&apos;s why this guide will start by <br/>guiding you into having the right mindset when it comes to learning Japanese. <br />                 
             </p>
             <h2 className='flex text-3xl px-8 pt-8'>
                 The Mindset 
             </h2>
             <p className='text-sm px-8 pt-8'>
-            The process of learning a language or anything long term  is something  <br />
+            The process of learning a language or anything long term, it is indeed something  <br />
             hard, and you should acknowledge that, I won&apos;t tell you that it is simple <br />
-            or painless, It takes a lot of self commitment and <p className=' inline-block underline hover:text-cyan-700'><a href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" rel="noreferrer" passHref>Grit</a>. </p>
+            or painless, It takes a lot of self commitment and <p className=' inline-block underline hover:text-cyan-700'><a href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" rel="noreferrer" passHref>Grit</a>.</p>
+            Plus, it will demand you to commit some time too, I would say if you can spend atleast 1 hour of your day interacting with the language everyday that's already a really good thing and will lead to 
+            good gains over time. <br />
+            Expect that you'll be able to understand most things way before you can consider yourself "fluent" and it only depends on your own effort. <br /> 
+            You should try to not think about japanese as some kind of study and instead as something you use to consume content. <br />
+            Youtube for example, can lead to great gains and you will hopefuly not feel like it's a chore and instead you are just having fun watching a youtube video(of course while paying attention to the language and trying to look up words without breaking the flow).
        </p>
         <h2 className='flex text-3xl px-8 pt-8'>
             The Process 
@@ -110,7 +115,7 @@ function Guide(){
            <p className='px-8 inline- underline hover:text-cyan-400'><a href='https://foosoft.net/projects/yomichan/' target="_blank" rel="noreferrer" passHref>Yomichan</a> </p>.
 
         </div>
- {/*  padding for the footer */}   
+ {/*  padding for the footer */}                
       <div className='pb-8'></div>
     </div> 
     );

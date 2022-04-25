@@ -1,4 +1,6 @@
 import Header from "../components/header";
+import Image from "next/image";
+import yomi from "../public/yomi.png"
 
 function Resources() {
   return (
@@ -54,6 +56,9 @@ function Resources() {
           costumizations. Yomichan works with the keyboard key <i>Shift</i> and
           also with the middle mouse button if you enable it under settings.
         </p>
+        <div className="pt-8">
+          <Image src={yomi} width={300} height={300} />
+        </div>
       </div>
        {/*  padding for the footer */}   
        <div className='pb-8'></div>

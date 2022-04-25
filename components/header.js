@@ -8,7 +8,7 @@ import Image from 'next/image';
           <div>
         <header className='flex justify-evenly  m-auto md-header_ellipsis text-slate-100 px-15 pt-5 pb-2.5' href="/index"> 
         <button className=' shadow-sm hover:text-cyan-400'>
-            <Link className=' ' href='/'>ヌル</Link>
+           <Link className=' ' href='/'>ヌル</Link>
         </button>
         <button className='  shadow-sm hover:text-cyan-400'>
             <Link className='' href='/about'>About</Link>
