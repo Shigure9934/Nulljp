@@ -36,7 +36,7 @@ visible: {
             <p className='text-xl px-8 pt-8'>
             The process of learning a language or anything long term that's worth learning,  is indeed something
             hard, and you should acknowledge that, I won&apos;t tell you that it is simple 
-            or painless, It takes a lot of self commitment and <a  className="underline text-cyan-400"href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" rel="noreferrer" passHref>Grit</a> <br/> 
+            or painless, It takes a lot of self commitment and <a  className="underline text-slate-500"href='https://en.wikipedia.org/wiki/Grit_(personality_trait)' target="_blank" rel="noreferrer" passHref>Grit</a> <br/> 
             Plus, it will demand you to commit some time too, I would say if you can spend atleast 1 hour of your day interacting with the language everyday that's already a really good thing and will lead to 
             good gains over time. <br />
             Expect that you'll be able to understand most things way before you can consider yourself "fluent" and it only depends on your own effort. 
@@ -124,12 +124,12 @@ visible: {
             <p className='px-8 text-xl flex-inline pt-8'>
             First of all you should get used to using dictionaries so you can look up words whenever you are browsing the internet
             or reading/watching content.Some of the recommended dictionary tools are down below, more detailed explanation on
-           <p className=' cursor-pointer inline text-cyan-400'>
-            <Link className=' text-cyan-400 underline cursor-pointer ' href='./resources' passHref><u> Resources</u></Link>.
+           <p className=' cursor-pointer inline text-slate-400'>
+            <Link className=' text-slate-400 underline cursor-pointer ' href='./resources' passHref><u> Resources</u></Link>.
             </p>
             </p>
-           <p className='pt-2 px-8 inline-block underline hover:text-cyan-400'><a href='https://jisho.org/' target="_blank" rel="noreferrer" passHref>Jisho.org</a> </p>.
-           <p className='px-8 inline- underline hover:text-cyan-400'><a href='https://foosoft.net/projects/yomichan/' target="_blank" rel="noreferrer" passHref>Yomichan</a> </p>.
+           <p className='pt-2 px-8 inline-block underline hover:text-slate-400'><a href='https://jisho.org/' target="_blank" rel="noreferrer" passHref>Jisho.org</a> </p>.
+           <p className='px-8 inline- underline hover:text-slate-400'><a href='https://foosoft.net/projects/yomichan/' target="_blank" rel="noreferrer" passHref>Yomichan</a> </p>.
         </div>
         <h2 className='flex text-2xl pt-8 px-8'>
             Vocabulary
