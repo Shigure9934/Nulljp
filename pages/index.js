@@ -63,7 +63,7 @@ visible: {
           }}>
  <div className='px-8 '>
 <Link href='./guide'>
- <button className='bg-cyan-800  rounded-md text-slate-300 hover:bg-cyan-700 flex shadow-sm scroll-m-10 p-2 '>&#9961; Japanese Guide </button></Link>
+ <button className='  bg-slate-700 rounded-md text-slate-300 hover:bg-slate-500 flex shadow-sm scroll-m-10 p-2 '>&#9961; Japanese Guide </button></Link>
 </div>
 <br></br>
 </motion.div>

@@ -67,7 +67,7 @@ visible: {
                 It is the roman alphabet equivalent of the Japanese alphabet. 
             </p>
         
-            <h2 className='flex text-2xl px-8 pt-8 '>
+            <h2 className='flex text-3xl px-8 pt-8 '>
             <ruby>
              <rb>  おはよう </rb>
                 <rt>  ohayou </rt>
@@ -108,7 +108,7 @@ visible: {
                    words, concepts, or entire phrases when 2 or more kanji are combined together, the same words can
                    be written in kana or kanji, highly depends on what word is and the author decision for example. 
                 </p>
-                <h2 className='flex-inline px-8 text-2xl pt-8 '>
+                <h2 className='flex-inline px-8 pb-8 text-3xl pt-8 '>
             <ruby>
              <rb>  天気 </rb>
                 <rt> てんき </rt>

@@ -17,15 +17,14 @@ html, body {
 
 
 body{
-     background-color: #1f3442;
-     background: linear-gradient(to right, #1f3442, #1f3442);
+     background-color: #353535;
     
      
 
 }
 
 header{
-    background-color: #01949A;
+    background-color: #4f5d75;
     @apply shadow-md;
     
 }
@@ -35,7 +34,7 @@ header{
 }
 
 p,h1,h2{
-    @apply text-slate-200;
+    color: #ffffff;
     @apply sm:pl-8;
 
     
