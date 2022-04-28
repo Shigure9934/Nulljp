@@ -1,4 +1,5 @@
 import Header from '../components/header';
+import { motion } from 'framer-motion';
 
 function About(){ 
     return (
