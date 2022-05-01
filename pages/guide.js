@@ -135,8 +135,20 @@ visible: {
             Vocabulary
         </h2>
         <p className='text-xl px-8 pt-8'>
-            Our next topic is about vocabulary...
-            </p>
+            Our next topic is about vocabulary...<br/>
+            The process of acquiring vocabulary is something straightforward and natural,
+            you acquire it simply by reading or watching content, and just by seeing the word many 
+            times you can learn it, usually takes 6-7 times of seeing the word before you actually 
+            acquire it. <br/>
+            The way you should be doing it is by looking up all the words you don't know with Yomichan 
+            or any other dictionary and as long as you keep looking up until your remember you will learn 
+            new words. <br />
+            You can accelerate the process of acquiring words by using a SRS (Spaced Repetition System) like {" "}
+            <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://animecards.site/ankisetup/' target="_blank" rel="noreferrer" passHref>Anki</a>. </div></p>
+            <p className='text-xl px-8 pt-2'>
+                While not being mandatory to do so, using anki will make your life much easier while learning something 
+                that requires it to be seen multiple times, so make your choice, but remember that you can always try it out after you started.
+                </p>
             </div>
         </motion.div>
  {/*  padding for the footer */}                
