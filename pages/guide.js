@@ -136,8 +136,7 @@ visible: {
         </h2>
         <p className='text-xl px-8 pt-8'>
             Our next topic is about vocabulary...<br/>
-            The process of acquiring vocabulary is something straightforward and natural,
-            you acquire it simply by reading or watching content, and just by seeing the word many 
+            The process of acquiring vocabulary is something straightforward and natural, you acquire it simply by reading or watching content, and just by seeing the word many 
             times you can learn it, usually takes 6-7 times of seeing the word before you actually 
             acquire it. <br/>
             The way you should be doing it is by looking up all the words you don't know with Yomichan 
@@ -150,6 +149,9 @@ visible: {
                 that requires it to be seen multiple times, so make your choice, but remember that you can always try it out after you started.
                 </p>
             </div>
+            <p className='text-xl px-8 pt-8'>
+                I won't go through the process of teaching you how to setup anki because it can get a bit complicated, and instead will just like to link this awesome resource that goes really in depth on it {" "}
+                <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://animecards.site/ankisetup/' target="_blank" rel="noreferrer" passHref>Anki setup<a>. </div>
         </motion.div>
  {/*  padding for the footer */}                
       <div className='pb-8'></div>
@@ -158,4 +160,3 @@ visible: {
 }
 
 export default Guide; 
-
