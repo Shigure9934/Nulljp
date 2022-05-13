@@ -146,16 +146,16 @@ visible: {
             <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://animecards.site/ankisetup/' target="_blank" rel="noreferrer" passHref>Anki</a>. </div></p>
             <p className='text-xl px-8 pt-2'>
                 While not being mandatory to do so, using anki will make your life much easier while learning something 
-                that requires it to be seen multiple times, so make your choice, but remember that you can always try it out after you started.
+                that requires it to be seen multiple times (words), so make your choice, but remember that you can always try it out after you started.
                 </p>
+                <p className='px-8 text-xl flex-inline pt-2'>
+                I won't go through the process of teaching you how to setup anki because it can get a bit complicated, and instead will to link you to this awesome resource that goes really in depth into it {" "}
+                <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://animecards.site/ankisetup/' target="_blank" rel="noreferrer" passHref>Anki setup</a>. 
             </div>
-            <p className='text-xl px-8 pt-8'>
-                I won't go through the process of teaching you how to setup anki because it can get a bit complicated, and instead will just like to link this awesome resource that goes really in depth on it {" "}
-                <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://animecards.site/ankisetup/' target="_blank" rel="noreferrer" passHref>Anki setup</a>. </div>
-                </p>
+            </p>
+            </div>
     </motion.div>
     
- {/*  padding for the footer */}                
       <div className='pb-8'></div>
     </div> 
     );
