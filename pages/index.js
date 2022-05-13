@@ -16,6 +16,7 @@ export default function Home() {
       <Head>
         <title>Nullsite</title>
         <meta name="description" content="A Guide to learn Japanese!" />
+        <meta name="google-site-verification" content="Z0hNGjUs3Kpom03jCyRZtnDuHBMChK-nxtfOe4nMQGM" />
         <link rel="icon" href="/icons8-カタカナのヌ-16.png" />
       </Head>
       <div>
