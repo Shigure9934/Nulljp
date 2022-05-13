@@ -151,7 +151,7 @@ visible: {
             </div>
             <p className='text-xl px-8 pt-8'>
                 I won't go through the process of teaching you how to setup anki because it can get a bit complicated, and instead will just like to link this awesome resource that goes really in depth on it {" "}
-                <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://animecards.site/ankisetup/' target="_blank" rel="noreferrer" passHref>Anki setup<a>. </div>
+                <div className=' inline-block underline hover:text-cyan-700'>    <a href='https://animecards.site/ankisetup/' target="_blank" rel="noreferrer" passHref>Anki setup</a>. </div>
         </motion.div>
  {/*  padding for the footer */}                
       <div className='pb-8'></div>
