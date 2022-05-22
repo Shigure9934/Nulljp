@@ -27,7 +27,8 @@ visible: {
             Our community is made mainly by self taught learners of not only the japanese language but some more languages as well.
             </p>
             <p className='flex text-xl px-8 pt-8'>
-              Our method is commonly known as immersion learning, and 
+              Our method is commonly known as immersion learning, and its proven to be very effective, as many people can achieve certain
+              degrees of fluency that would be extremely hard without them living in the country or by using normal methods </p>
             <p className='flex px-5 pb-1 bottom-0 fixed text-xs	'>
   Github- Shigure9934 
 </p>
