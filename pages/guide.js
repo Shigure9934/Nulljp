@@ -166,7 +166,7 @@ function Guide() {
                   href="./resources"
                   passHref
                 >
-                  <u> Resources</u>
+                  <u>Resources</u>
                 </Link>
                 .
               </p>
