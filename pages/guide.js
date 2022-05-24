@@ -42,16 +42,19 @@ function Guide() {
               worth learning, is indeed something hard, and you should
               acknowledge that, I won&apos;t tell you that it is simple or
               painless, It takes a lot of self commitment and{" "}
+              <div className=" inline-block underline hover:text-cyan-700">
+              {" "}
               <a
-                className="underline text-slate-500"
                 href="https://en.wikipedia.org/wiki/Grit_(personality_trait)"
                 target="_blank"
                 rel="noreferrer"
                 passHref
               >
-                Grit
+                Grit.
               </a>{" "}
               <br />
+              </div>
+              {" "}
               Plus, it will demand you to commit some time too, I would say if
               you can spend atleast 1 hour of your day interacting with the
               language everyday that's already a really good thing and will lead
@@ -159,18 +162,17 @@ function Guide() {
               First of all you should get used to using dictionaries so you can
               look up words whenever you are browsing the internet or
               reading/watching content.Some of the recommended dictionary tools
-              are down below, more detailed explanation on
-              <p className=" cursor-pointer inline text-slate-400">
+              are down below, more detailed explanation on{" "}<p className=" cursor-pointer inline text-slate-400">
                 <Link
-                  className=" text-slate-400 underline cursor-pointer "
+                  className="text-slate-400 underline cursor-pointer "
                   href="./resources"
                   passHref
                 >
-                  <u>Resources</u>
+                <u>Resources.</u>
                 </Link>
-                .
               </p>
             </p>
+              
             <p className="pt-2 px-8 inline-block underline hover:text-slate-400">
               <a
                 href="https://jisho.org/"
